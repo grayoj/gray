@@ -1,5 +1,5 @@
 # Official Page
-This is the github repository of my wesbite, written in good ol' Typescript.
+This is the github repository of my website, written in good ol' Typescript.
 Turns out, I am not too shit in UI, when I use tailwind.
 
 # Installation
